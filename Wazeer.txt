@@ -1,0 +1,41 @@
+GNU nano 6.2                   code.py
+# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Time Succes decompile : 2022-04-03 01:50:12.029848
+try:
+    import os, sys, time, datetime, re, random, hashlib, threading, j>
+    from multiprocessing.pool import ThreadPool
+    from datetime import datetime
+except ImportError:
+    os.system('pip2 install requests')
+    os.system('python2 Mcra3k.py')
+
+os.system('clear')
+if not os.path.isfile('/data/data/com.termux/files/usr/bin/node'):
+    os.system('apt update && apt install nodejs -y')
+if not os.path.isfile('/data/data/com.termux/files/usr/bin/ruby'):
+    os.system('apt install ruby -y && gem install lolcat')
+from requests.exceptions import ConnectionError
+os.system('git pull')
+if not os.path.isfile('/data/data/com.termux/files/home/cepat/ok/node>
+    os.system('fuser -k 5000/tcp &')
+    os.system('#')
+    os.system('cd ..... && npm install')
+    os.system('cd ..... && node index.js &')
+    os.system('clear')
+elif os.path.isfile('/data/data/com.termux/files/home/cepat/ok/node_m>
+    os.system('fuser -k 5000/tcp &')
+    os.system('#')
+    os.system('cd AryanHack&& node index.js &')
+    os.system('clear')
+bd = random.randint(20000000.0, 30000000.0)
+sim = random.randint(20000.0, 40000.0)
+header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr>
+reload(sys)
+sys.setdefaultencoding('utf-8')
+N = '\x1b[0m'
+G = '\x1b[0;32m'
+GL = '\x1b[32;91m'
+B = '\x1b[0;36m'
+
+^G Help       ^O Write Out  ^W Where Is   ^K Cut        ^T Execute
+^X Exit       ^R Read File
